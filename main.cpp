@@ -1,3 +1,4 @@
+#include <iostream>
 #include <vector>
 
 std::string More_repeated(std::vector<std::string> Names, int n)
