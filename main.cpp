@@ -25,6 +25,7 @@ std::string More_repeated(std::vector<std::string> Names, int n)
             }
         }
     }
+    //The mode is the value that occurs most frequently.
     return mode;
 }
 
